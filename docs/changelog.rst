@@ -5,6 +5,15 @@ Changelog
 
 .. towncrier release notes start
 
+Pyrh 2.1.3 (2024-08-07)
+=======================
+
+Features
+--------
+
+- Added Options order support for build and execution (#317)
+
+
 Pyrh 2.1.2 (2023-03-04)
 =======================
 
